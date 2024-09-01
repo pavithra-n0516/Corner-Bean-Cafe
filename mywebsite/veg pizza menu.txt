@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>THE COFFEE HOUSE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Spicy+Rice&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  
+</head>
+<body ><header>
+        <h1  >CORNER BEAN CAFÉ</h1>
+         <div class="top">
+	  <div class="top-items">
+          <img src="logopic.jpg" alt="Image 1" style="width: 60px; height: "30px;">
+          </div>
+            <div class="top-items">
+          <a href ="index.html"><b>Home</b></a>
+        </div>
+           <div class="top-items">
+           <a href ="index.html"><b>order</b></a>
+          </div>
+           <div class="top-items">
+        <a href="signup.html" class="image-link"><img src="signup1.jpg" class="signup-image" alt="Sign Up"></a>
+        </div>
+       </div>
+</header>
+
+ <ul class="filtercoffee">
+    <li>
+      <img src="pizza1.jpg" alt="Filter Coffee">
+    </li>
+    <li>
+      <section>
+        <h3><b>FILTER COFFEE</b></h3>
+        <p>Made by pouring hot water over coffee grounds that are compressed into a layer in a metal or paper filter.</p>
+        <p>Price: 65 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="latte">
+    <li>
+      <img src="pizza2.jpg.jpg" alt="Latte">
+    </li>
+    <li>
+      <section>
+       <h3><b>LATTE</b></h3>
+        <p>a coffee drink made with espresso, steamed milk, and a thin layer of frothed milk on top.</p>
+        <p>Price: 300 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="americano">
+    <li>
+      <img src="pizza3.jpg" alt="Americano">
+    </li>
+    <li>
+      <section>
+       <h3><b>AMERICANO</b></h3>
+        <p>is a coffee drink made by diluting espresso with hot water.</p>
+        <p>Price:  270 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="mocha">
+    <li>
+      <img src="pizza4.jpg" alt="Mocha">
+    </li>
+    <li>
+      <section>
+        <h3><b>MOCHA</b></h3>
+        <p>a coffee drink that's a variation of a latte and is often found on coffee shop menus..</p>
+        <p>Price: 340 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="black-coffee">
+    <li>
+      <img src="pizza5.jpg" alt="Black Coffee">
+    </li>
+    <li>
+      <section>
+        <h3><b>BLACK COFFEE</b></h3>
+        <p> a hot drink made from ground coffee and water, and can be prepared using various brewing methods.</p>
+        <p>Price: 235 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="cappuccino">
+    <li>
+      <img src="cappuccino.jpg" alt="Cappuccino">
+    </li>
+    <li>
+      <section>
+       <h3><b>CAPPUCCINO</b></h3>
+        <p>a popular coffee drink made with espresso, steamed milk, and foam, and served in a large cup.</p>
+        <p>Price: 375 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="frappe">
+    <li>
+      <img src="frappe.jpg" alt="Frappe">
+    </li>
+    <li>
+      <section>
+      <h3><b>FRAPPE</b></h3>
+        <p>a cold, blended, or shaken drink that's usually served with whipped cream and toppings. .</p>
+        <p>Price: 307 INR</p>
+      </section>
+    </li>
+  </ul>
+
+  <ul class="herbaltea">
+    <li>
+      <img src="herbaltea.jpg" alt="Herbal Tea">
+    </li>
+    <li>
+      <section>
+        <h3><b>HERBAL TEA</b></h3>
+        <p>beverages made from herbs, fruits, spices and/or other plant material infused in water.</p>
+        <p>Price: 261 INR</p>
+      </section>
+    </li>
+  </ul>
+<footer>
+<ul class="footer">
+     <li>
+           <a  href="about.html"><font color="white"> About</a>
+     </li>
+      <li>
+           <a href ="cafe locations.html"><font color="white">Café locations</a>
+     </li>
+	<li> 
+            <a href="Contacts.html"><font color="white">Contact</a>
+	</li>
+</ul>
+   
+        <p3 text align=center>&copy; Copyright 2024- A unit of Pavithra Nakshatri </p3>
+    </footer>
+
+</body>
+</html> 
